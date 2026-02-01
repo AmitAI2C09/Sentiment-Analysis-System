@@ -10,6 +10,18 @@ This project is developed as part of an academic requirement for the
 **B.Tech CSE (Artificial Intelligence)** program.
 
 ---
+## 📸 Project Screenshots
+
+### Application Interface
+![UI](assets/ui.png)
+
+### Sentiment Result
+![Result](assets/result.png)
+
+### Terminal Execution
+![Terminal](assets/terminal.png)
+
+---
 
 ## 🎯 Objectives
 - To preprocess and clean raw textual data
